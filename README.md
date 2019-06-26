@@ -7,4 +7,6 @@
  ####
  重写react webpack 配置  
  https://github.com/timarney/react-app-rewired  
- https://github.com/arackaf/customize-cra#available-plugins
+ https://github.com/arackaf/customize-cra#available-plugins  
+ react-router v4  
+ https://blog.pshrmn.com/simple-react-router-v4-tutorial/
