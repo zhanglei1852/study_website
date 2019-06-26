@@ -9,4 +9,8 @@
  https://github.com/timarney/react-app-rewired  
  https://github.com/arackaf/customize-cra#available-plugins  
  react-router v4  
- https://blog.pshrmn.com/simple-react-router-v4-tutorial/
+ https://blog.pshrmn.com/simple-react-router-v4-tutorial/  
+ ### TypeScript
+ ####
+ tsconfig.json  
+ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
