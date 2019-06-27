@@ -13,4 +13,6 @@
  ### TypeScript
  ####
  tsconfig.json  
- https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html  
+ typescript 中文文档  
+ https://www.tslang.cn/docs/handbook/jsx.html
