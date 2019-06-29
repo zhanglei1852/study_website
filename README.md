@@ -19,4 +19,6 @@
  ### Vue
  ####  
  Vue面试常见问题  
- https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md
+ https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md  
+ ### 动画  
+ http://www.animejs.cc/
