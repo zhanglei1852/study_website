@@ -23,4 +23,8 @@
  ### 动画  
  http://www.animejs.cc/  
  ### GraphQL  
- https://aotu.io/notes/2017/12/15/graphql-use/
+ https://aotu.io/notes/2017/12/15/graphql-use/  
+ ### 其他  
+ ####  
+ 面试相关、blog、书籍、文章、优质仓库  
+ https://github.com/KieSun/awesome-fe-study-source
