@@ -21,4 +21,6 @@
  Vue面试常见问题  
  https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md  
  ### 动画  
- http://www.animejs.cc/
+ http://www.animejs.cc/  
+ ### GraphQL  
+ https://aotu.io/notes/2017/12/15/graphql-use/
