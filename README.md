@@ -22,6 +22,7 @@
  https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md  
  ### 动画  
  http://www.animejs.cc/  
+ https://github.com/chenglou/react-motion
  ### GraphQL  
  https://aotu.io/notes/2017/12/15/graphql-use/  
  ### 其他  
