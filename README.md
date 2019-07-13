@@ -20,6 +20,8 @@
  ####  
  Vue面试常见问题  
  https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md  
+ Vue3.0 Function-based API RFC
+ https://zhuanlan.zhihu.com/p/68477600
  ### 动画  
  http://www.animejs.cc/  
  https://github.com/chenglou/react-motion
