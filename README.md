@@ -25,6 +25,7 @@
  Vue3.0 Function-based API RFC  
  https://zhuanlan.zhihu.com/p/68477600
  ### 动画  
+ https://juejin.im/post/5d3c55866fb9a07efa0961ff  
  http://www.animejs.cc/  
  https://github.com/yui540/Cowardly-Witch  
  https://github.com/chenglou/react-motion
