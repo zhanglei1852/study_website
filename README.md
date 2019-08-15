@@ -23,7 +23,9 @@
  Vue面试常见问题  
  https://github.com/haizlin/fe-interview/blob/master/lib/Vue.md  
  Vue3.0 Function-based API RFC  
- https://zhuanlan.zhihu.com/p/68477600
+ https://zhuanlan.zhihu.com/p/68477600  
+ Vue组件库开发流程 
+ https://juejin.im/post/5aacd6d55188252c32197273#heading-26
  ### 动画  
  https://juejin.im/post/5d3c55866fb9a07efa0961ff  
  http://www.animejs.cc/  
