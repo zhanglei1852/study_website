@@ -47,6 +47,8 @@
  ####  
  MutationObserver: 接口提供了监视对DOM树所做更改的能力  
  https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver  
+ ### web优化  
+ https://web.dev/fast
 
  
 
